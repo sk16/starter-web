@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is for showing how Git and GitHub work. Ading a line for rebasing
+This repository is for showing how Git and GitHub work. Ading a line for rebasing, then more changes from my feature branches too
 
 ## Purpose
 
