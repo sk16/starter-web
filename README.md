@@ -21,6 +21,6 @@ hello world 4
 hello world 5
 hello world 6
 
-2014 copyright
+2014 copyright .All rights resevered
 
 Please fork the repository
